@@ -1,7 +1,7 @@
 # ccPuzzle
 
-## JavaScript
+### JavaScript
 `node ccPuzzle.js`  
 
-## Ruby
+### Ruby
 `ruby ccPuzzle.rb`  
