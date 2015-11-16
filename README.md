@@ -5,3 +5,6 @@
 
 ### Ruby
 `ruby ccPuzzle.rb`  
+
+### PHP
+`php ccPuzzle.php`
